@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:pizza_app/app.dart';
 import 'package:user_repository/user_repository.dart';
 import 'simple_bloc_observer.dart';
+import 'firebase_options.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
